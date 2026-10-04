@@ -1,0 +1,14 @@
+{
+  "name": "nokos-wa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ms-nicky/baileys": "github:ms-nicky/baileys",
+    "axios": "^1.7.7",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
