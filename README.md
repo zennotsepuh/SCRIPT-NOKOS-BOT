@@ -1,1 +1,0 @@
-# SCRIPT-NOKOS-BOT
